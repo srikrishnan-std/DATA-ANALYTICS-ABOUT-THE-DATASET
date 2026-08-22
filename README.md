@@ -6,9 +6,13 @@ Data Analytics is the process of examining, cleaning, transforming, and interpre
 data to discover useful information, patterns, and relationships.
 A dataset usually contains:
  Rows – individual observations or records.
+
  Columns – attributes or features describing each record.
+
  Numerical data – values represented by numbers.
+
  Categorical data – values represented by categories or labels.
+
 In this experiment, the dataset contains information about customers and their
 purchasing behavior. The four attributes are:
 Country, Age, Salary, and Purchased.
